@@ -1,0 +1,63 @@
+	#div1{
+		border-style: dashed;
+		border-color: #178730;
+		margin: 15%;
+		padding: 12px;
+	}
+	#div2{
+		border-style: dashed;
+		border-color: #178730;
+		margin: 15%;
+		padding: 12px;
+	}
+	#div3{
+		border-style: dashed;
+		border-color: #178730;
+		margin: 15%;
+		padding: 12px;
+	}
+	#product{
+		font-family: 'Noto Serif', serif;
+		font-size: 14pt;
+		text-align: left;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	#price{
+		margin-top: 25px;
+		margin-bottom: 25px;
+		font-family: 'Patrick Hand', cursive;
+		font-size: 100pt;
+		text-align: center;
+	}
+	body{
+		background-color: #F5F3E4;
+	}
+	img{
+		margin-left: 200px;
+		margin-right: 100px;
+		border: 1px solid #ddd;
+		border-radius: 4px;
+		padding: 5px;
+		text-align: center;
+	}
+	h4{
+		font-family: 'Noto Serif', serif;
+		font-size: 54pt;
+		text-align: center;
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+	button{
+		border: none;
+		border-radius: 6px;
+		outline: 0;
+		display: inline-block;
+		padding:  12px;
+		color: white;
+		background-color: #AA58B5;
+		text-align: center;
+		cursor: pointer;
+		width: 100%;
+		font-size: 18px;
+	}
